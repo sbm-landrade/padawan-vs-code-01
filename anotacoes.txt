@@ -1,0 +1,25 @@
+Shift + alt + f = formatar
+
+alt + z = quebra de linha
+
+alt + seta para cima = subir linha
+
+alt + . =sugestões de alteração
+
+f8 = para visualizar os proximos erros
+
+ctrl + i = substritui todo código
+ctrl + d = substitui somente os que você selecionar
+
+f2 = altera a palavra sem precisar child_care
+
+f12 = leva direito para declaração;
+exemplo: log(media);
+let media = 0;
+
+ctrl + Shift + k = apagar linha
+
+
+ctrl + ; = para alterar formatação (comentario/comando)
+
+ctrl + k + s = atalhos de teclado
