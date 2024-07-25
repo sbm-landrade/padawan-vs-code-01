@@ -18,3 +18,8 @@ exemplo: log(media);
 let media = 0;
 
 ctrl + Shift + k = apagar linha
+
+
+ctrl + ; = para alterar formatação (comentario/comando)
+
+ctrl + k + s = atalhos de teclado
