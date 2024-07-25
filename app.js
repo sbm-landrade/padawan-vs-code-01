@@ -34,7 +34,6 @@ console.log(media);
 teste()
 
 function teste() {
-  console.log("retornou");
   return 10;
 }
 
@@ -45,4 +44,9 @@ array = [];
 array.push(1);
 console.log(array);
 
-let texto = ["oi", "ok"];
+let PalavrasSimples = ["oi", "ok"];
+
+for (let i = 0; i < PalavrasSimples.length; i++) {
+    const element = PalavrasSimples[i];
+    
+}
