@@ -1,17 +1,17 @@
-// idades = [30, 35, 28]
-// nomes = ["Ana", "Juliana", "Leonardo"]
-// faculdade = {false,true,false}
+idades = [30, 35, 28]
+nomes = ["Ana", "Juliana", "Leonardo"]
+faculdade = {false,true,false}
 
-// funcionarios = [nomes,idades,faculdade]
+funcionarios = [nomes,idades,faculdade]
 
-// function eMaiorQue10(value) {
-//     retunr value >= 10;
-//   }
+function eMaiorQue10(value) {
+    retunr value >= 10;
+  }
 
-// var filtrado = numeros.filter(eMaiorQue10);
-// // filtrado é [12, 130, 44]
+var filtrado = numeros.filter(eMaiorQue10);
+// filtrado é [12, 130, 44]
 
-// console.log(filtrado)
+console.log(filtrado)
 
 const notas1 = [10, 6.5, 8, 7.5];
 const notas2 = [9, 6, 6];
