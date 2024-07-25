@@ -1,0 +1,7 @@
+Shift + alt + f = formatar
+
+alt + z = quebra de linha
+
+alt + seta para cima = subir linha
+
+alt + . =sugestões de alteração
